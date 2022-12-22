@@ -1,0 +1,24 @@
+{
+    "webcredentials": {
+        "apps": [
+            "2XTZY9LHC7.ae.airkey.airkey",
+            "2XTZY9LHC7.ae.airkey.airkey.QA",
+            "2XTZY9LHC7.ae.airkey.airkey.Dev"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "2XTZY9LHC7.ae.airkey.airkey",
+            "2XTZY9LHC7.ae.airkey.airkey.QA",
+            "2XTZY9LHC7.ae.airkey.airkey.Dev"
+        ],
+        "details": [
+            {
+                "appID": "2XTZY9LHC7.ae.airkey.airkey",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
